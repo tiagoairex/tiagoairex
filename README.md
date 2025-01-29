@@ -34,7 +34,7 @@ Sou um apaixonado por tecnologia, atualmente trabalhando como Analista de Sistem
 <!--Snake animation-->
 <div align="center">
 
-![Snake animation](https://github.com/tiagoairex/tiagoairex/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation dark mode](https://raw.githubusercontent.com/tiagoairex/tiagoairex/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
