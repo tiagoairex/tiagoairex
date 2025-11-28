@@ -9,7 +9,7 @@
 Sou um apaixonado por tecnologia, atualmente trabalhando como Analista de Sistemas na TGV Tecnologia. Sempre em busca de novos conhecimentos e desafios, acredito que a tecnologia é a chave para transformar o futuro.
 
 - 🌱 Atualmente, estou aprofundando meus conhecimentos em Python, JavaScript e desenvolvimento web.
-- 📫 Você pode me encontrar em: [dev.tiagoairex@outlook.com](mailto:dev.tiagoairex@outlook.com)
+- 📫 Você pode me encontrar em: [dev.tiagoairex@outlook.com](mailto:tiagop.aires@gmail.com)
 
 ## 🚀 Minhas Ferramentas e Tecnologias
 
