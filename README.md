@@ -50,17 +50,7 @@ Tenho focado meus estudos na construção de **APIs, sistemas web e arquitetura 
 
 ---
 
-# 📊 Estatísticas do GitHub
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=tiagoaires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoaires&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
 
 # 🌎 Conecte-se comigo
 
