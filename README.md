@@ -4,36 +4,86 @@
   <img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/octo.gif" height="180" width="180" alt="Gif">
 </div>
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou um apaixonado por tecnologia, atualmente trabalhando como Analista de Sistemas na TGV Tecnologia. Sempre em busca de novos conhecimentos e desafios, acredito que a tecnologia é a chave para transformar o futuro.
+Sou **Analista de Sistemas** com experiência em **dados e tecnologia**, atualmente em transição para **desenvolvimento backend com Java**.
 
-- 🌱 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web e back-end.
-- 📫 Você pode me encontrar em: [tiagop.aires@gmail.com](mailto:tiagop.aires@gmail.com)
+Tenho focado meus estudos na construção de **APIs, sistemas web e arquitetura backend**, utilizando tecnologias modernas do ecossistema Java.
 
-## 🚀 Minhas Ferramentas e Tecnologias
+🚀 Meu objetivo é evoluir como **Backend Developer**, construindo aplicações escaláveis e bem estruturadas.
 
-🚀 Minhas Ferramentas e Tecnologias
-<div align="center"> 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+- 💻 Atualmente estudando **Java, Spring Boot e arquitetura backend**
+- 📚 Desenvolvendo projetos de **CRUD, APIs REST e sistemas de gerenciamento**
+- 🌐 Portfólio: https://tiago-showcase-folio.vercel.app/
+- 📫 Contato: **tiagop.aires@gmail.com**
 
-</div>
+---
 
-## Conecte-se comigo
+# 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-  <a href="https://www.instagram.com/tiagoairex_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="mailto:dev.tiagoairex@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiagoaires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
 </div>
 
-<!--Snake animation-->
+---
+
+# 📚 Atualmente Estudando
+
+- Java Backend Development
+- Spring Boot
+- REST APIs
+- Arquitetura de Software
+- Microsserviços
+- Banco de Dados Relacional
+
+---
+
+# 📊 Estatísticas do GitHub
+
 <div align="center">
 
- ![Snake animation dark mode](https://raw.githubusercontent.com/savioc2/savioc2/output/github-contribution-grid-snake-dark.svg)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=tiagoaires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoaires&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
+---
+
+# 🌎 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tiagoaires/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:dev.tiagoairex@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/tiagoairex_/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/savioc2/savioc2/output/github-contribution-grid-snake-dark.svg)
+
+</div>
